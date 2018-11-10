@@ -1,5 +1,5 @@
 # DeepESN
-The Deep Echo State Network (DeepESN) model extends the design of Echo State Networks towards the Deep Learning framework.
+The Deep Echo State Network (DeepESN) extends the design of Echo State Networks models towards the Deep Learning framework.
 
 Citation request:
 
